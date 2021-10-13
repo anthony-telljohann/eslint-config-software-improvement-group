@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/anthony-telljohann/eslint-config-software-improvement-group#readme",
   "peerDependencies": {
-    "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0"
+    "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0"
   },
   "scripts": {
     "test": "echo \"Tests do not exist.\"",
