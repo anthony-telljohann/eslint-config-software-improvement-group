@@ -7,7 +7,7 @@ ESLint configuration for Software Improvement Group's (SIG) 10 guidelines for bu
 ## Install
 
 ```
-npm i eslint-config-software-improvement-group -D
+npm install eslint-config-software-improvement-group --save-dev
 ```
 
 ## Usage
