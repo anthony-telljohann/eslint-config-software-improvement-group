@@ -54,7 +54,9 @@ module.exports = {
       "off",
       {
         vars: "all",
+        varsIgnorePattern: "^_",
         args: "all",
+        argsIgnorePattern: "^_",
         ignoreRestSiblings: false,
         caughtErrors: "none",
       },
