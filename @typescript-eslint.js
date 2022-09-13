@@ -37,5 +37,6 @@ module.exports = {
         ignoreReadonlyClassProperties: true,
       },
     ],
+    "@typescript-eslint/explicit-function-return-type": "error",
   },
 };
