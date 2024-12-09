@@ -2,7 +2,7 @@
   "name": "eslint-config-software-improvement-group",
   "version": "0.0.0-development",
   "description": "ESLint configuration for Software Improvement Group's (SIG) 10 guidelines for building maintainable software.",
-  "files": [
+  "files": [fdfsdfs
     "rules/",
     "index.js",
     "loose.js",
